@@ -1,5 +1,3 @@
-# Image-classifier
-Image Classification project using Transfer Learning with MobileNetV2 on the CIFAR-10 dataset. This project demonstrates how to use pretrained models for efficient image recognition, including fine-tuning, augmentation, and visualization of results using TensorFlow &amp; Keras.
 # 🧠 Image Classifier using Transfer Learning (MobileNetV2) on CIFAR-10
 
 This project implements an **image classification model** using **Transfer Learning** with **MobileNetV2**, trained on the **CIFAR-10 dataset**.  
