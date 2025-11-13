@@ -78,3 +78,5 @@ Displays a 5×5 grid of CIFAR-10 test images with predicted vs. true labels.
 The trained model is saved as:
 Image Classifier
 
+You can easily reload the trained model for future use or deployment using:
+model = keras.models.load_model("Image Classifier")
