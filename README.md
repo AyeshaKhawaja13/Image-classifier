@@ -76,3 +76,5 @@ Displays a 5×5 grid of CIFAR-10 test images with predicted vs. true labels.
 ## 💾 Model Saving
 
 The trained model is saved as:
+Image Classifier
+
